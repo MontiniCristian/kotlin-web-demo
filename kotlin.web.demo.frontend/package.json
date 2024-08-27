@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "bower": "*",
-    "webpack": "1.13.2"
+    "webpack": "5.94.0"
   }
 }
